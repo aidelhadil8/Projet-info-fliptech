@@ -1,2 +1,2 @@
-# Projet-informatique-
-Projet groupe MI3-L flipcarts
+# Projet-info-fliptech
+Projet groupe MI3-L fliptech
